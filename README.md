@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mrigank072
-- 👀 I’m interested in Web development and data analysis
-- 🌱 I’m currently learning redux 
-- 💞️ I’m looking to collaborate on web based trading terminals
+- 👀 I’m interested in Web development ,data analysis, Design ,Game Dev
+- 🌱 I’m currently learning Unity 
+- 💞️ I’m looking to collaborate on Responsive web page Design 
 - 📫 How to reach me https://www.linkedin.com/in/mrigank
 
 <!---
